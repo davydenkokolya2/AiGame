@@ -1,3 +1,110 @@
 <resources>
     <string name="app_name">AiGame</string>
+    <string name="info_about_description">Step into the world of harmony with the Tiger\'s Forte-Une, a digital blend of ancient wisdom and cutting-edge AI technology. Designed to transform your spaces into sanctuaries of positive energy, this application offers a comprehensive guide to Feng Shui\'s time-honored principles and practices. Whether you\'re a novice curious about Feng Shui or a seasoned practitioner, our AI-driven insights will cater to your unique needs.</string>
+    <string name="info_shop_title">Shop &amp; Collect</string>
+    <string name="info_shop_description">Unlock exclusive artifacts, from traditional Feng Shui cures to Zodiac animals, enhancing both your game and real-life spaces.</string>
+    <string name="info_wheel_title">Comprehensive Feng Shui Library</string>
+    <string name="info_wheel_description">Delve deep into topics, from the five elements to Feng Shui\'s relationship with the Chinese Zodiac. A treasure trove of knowledge awaits.</string>
+    <string name="info_simulator_title">Interactive Learning Experience</string>
+    <string name="info_simulator_description">With our Feng Shui simulator game, learn by doing. Arrange elements, receive feedback, and enhance your understanding through practical application.</string>
+
+    <string name="shop_furniture_card_1_name">Coffee table</string>
+    <string name="shop_furniture_card_2_name">Chair</string>
+    <string name="shop_furniture_card_3_name">Closet</string>
+    <string name="shop_furniture_card_4_name">Dresser</string>
+    <string name="shop_furniture_card_5_name">Dressing table</string>
+    <string name="shop_furniture_card_6_name">Armchair</string>
+    <string name="shop_furniture_card_7_name">Sofa</string>
+    <string name="shop_furniture_card_8_name">Dinner Table</string>
+    <string name="shop_furniture_card_9_name">Stand</string>
+    <string name="shop_furniture_card_10_name">Rack</string>
+    <string name="shop_furniture_card_11_name">Fridge</string>
+    <string name="shop_furniture_card_12_name">Oven</string>
+    <string name="shop_furniture_card_13_name">Kitchen Cabinet</string>
+    <string name="shop_furniture_card_14_name">Bonsai tree</string>
+    <string name="shop_furniture_card_15_name">House Plant</string>
+    <string name="shop_furniture_card_16_name">Carpet</string>
+
+    <string name="shop_furniture_card_1_cost">100000</string>
+    <string name="shop_furniture_card_2_cost">100000</string>
+    <string name="shop_furniture_card_3_cost">100000</string>
+    <string name="shop_furniture_card_4_cost">100000</string>
+    <string name="shop_furniture_card_5_cost">100000</string>
+    <string name="shop_furniture_card_6_cost">100000</string>
+    <string name="shop_furniture_card_7_cost">100000</string>
+    <string name="shop_furniture_card_8_cost">100000</string>
+    <string name="shop_furniture_card_9_cost">100000</string>
+    <string name="shop_furniture_card_10_cost">100000</string>
+    <string name="shop_furniture_card_11_cost">100000</string>
+    <string name="shop_furniture_card_12_cost">100000</string>
+    <string name="shop_furniture_card_13_cost">100000</string>
+    <string name="shop_furniture_card_14_cost">100000</string>
+    <string name="shop_furniture_card_15_cost">100000</string>
+    <string name="shop_furniture_card_16_cost">100000</string>
+
+    <string name="shop_chinese_art_and_decor_card_1_name">Gold bag</string>
+    <string name="shop_chinese_art_and_decor_card_2_name">Fireworks</string>
+    <string name="shop_chinese_art_and_decor_card_3_name">Gold ingots</string>
+    <string name="shop_chinese_art_and_decor_card_4_name">Envelope</string>
+    <string name="shop_chinese_art_and_decor_card_5_name">Gold Frog</string>
+    <string name="shop_chinese_art_and_decor_card_6_name">Yin Yang</string>
+    <string name="shop_chinese_art_and_decor_card_7_name">Lantern</string>
+
+
+    <string name="shop_chinese_art_and_decor_card_1_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_2_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_3_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_4_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_5_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_6_cost">100000</string>
+    <string name="shop_chinese_art_and_decor_card_7_cost">100000</string>
+
+    <string name="shop_chinese_zodiac_card_1_name">Dragon Statue</string>
+    <string name="shop_chinese_zodiac_card_2_name">Goat Statue</string>
+    <string name="shop_chinese_zodiac_card_3_name">Horse Statue</string>
+    <string name="shop_chinese_zodiac_card_4_name">Monkey Statue</string>
+    <string name="shop_chinese_zodiac_card_5_name">Ox Statue</string>
+    <string name="shop_chinese_zodiac_card_6_name">Pig Statue</string>
+    <string name="shop_chinese_zodiac_card_7_name">Rabbit Statue</string>
+    <string name="shop_chinese_zodiac_card_8_name">Rat Statue</string>
+    <string name="shop_chinese_zodiac_card_9_name">Rooster Statue</string>
+    <string name="shop_chinese_zodiac_card_10_name">Snake Statue</string>
+    <string name="shop_chinese_zodiac_card_11_name">Lion Statue</string>
+    <string name="shop_chinese_zodiac_card_12_name">Dog Statue</string>
+
+
+    <string name="shop_chinese_zodiac_card_1_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_2_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_3_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_4_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_5_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_6_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_7_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_8_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_9_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_10_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_11_cost">100000</string>
+    <string name="shop_chinese_zodiac_card_12_cost">100000</string>
+    <string name="to_menu">TO MENU</string>
+    <string name="wheel_of_fortune">WHEEL OF FORTUNE</string>
+    <string name="_00000000">00000000</string>
+    <string name="small">SMALL</string>
+    <string name="dragon_statue">Dragon Statue</string>
+    <string name="buy">BUY</string>
+    <string name="_1">1</string>
+    <string name="_100000">100000</string>
+    <string name="furniture">FURNITURE</string>
+    <string name="chinese_zodiac">CHINESE ZODIAC</string>
+    <string name="chinese_art_and_decor">CHINESE ART AND DECOR</string>
+    <string name="shop">SHOP</string>
+    <string name="wheel">WHEEL</string>
+    <string name="simulator">SIMULATOR</string>
+    <string name="info">INFO</string>
+    <string name="medium">MEDIUM</string>
+    <string name="about">ABOUT</string>
+    <string name="get">GET</string>
+    <string name="choose_room_size">CHOOSE ROOM SIZE</string>
+    <string name="big">BIG</string>
+    <string name="collection">COLLECTION</string>
+
 </resources>
